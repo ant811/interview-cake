@@ -1,0 +1,22 @@
+{
+  "name": "interview-cake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant811/interview-cake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ant811/interview-cake/issues"
+  },
+  "homepage": "https://github.com/ant811/interview-cake#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
